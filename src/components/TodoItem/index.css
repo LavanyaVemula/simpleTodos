@@ -1,0 +1,15 @@
+.todo-item {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 32px;
+}
+
+.delete-btn {
+  background-color: white;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: #ff0b37;
+  width: 130px;
+  height: 30px;
+}
